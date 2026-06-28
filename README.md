@@ -62,16 +62,13 @@ frontend/
 ## 🚀 실행 방법
 
 ```bash
-# 1. 저장소 클론 및 frontend 폴더 이동
-cd frontend
-
-# 2. 의존성 패키지 설치
+# 1. 의존성 패키지 설치
 pnpm install
 
-# 4. 개발 서버 실행
+# 2. 개발 서버 실행
 pnpm dev
 
-# 5. 코드 스타일 및 린트 검사
+# 3. 코드 스타일 및 린트 검사
 pnpm lint   # ESLint 검사
 pnpm format # Prettier 포맷팅 자동 적용
 ```
